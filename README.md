@@ -1,6 +1,6 @@
 ## About The Project
 
-![Product Screenshot](https://picsum.photos/1920/1080)
+![Screenshot from 2024-12-14 10-53-14](https://github.com/user-attachments/assets/b11e6f26-d2ed-4782-92f8-85848b512672)
 
 This task management app was created to streamline the organization of projects and tasks, providing a collaborative platform inspired by tools like Trello and Jira. It allows users to create projects, manage tasks across multiple statuses, and collaborate in real-time with team members.
 
