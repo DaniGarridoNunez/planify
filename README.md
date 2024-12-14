@@ -1,6 +1,6 @@
 ## About The Project
 
-![Screenshot from 2024-12-14 10-53-14](https://github.com/user-attachments/assets/b11e6f26-d2ed-4782-92f8-85848b512672)
+![Screenshot from 2024-12-14 10-54-57](https://github.com/user-attachments/assets/21a5357d-9bd7-4e0c-813e-d361da1bafd2)
 
 This task management app was created to streamline the organization of projects and tasks, providing a collaborative platform inspired by tools like Trello and Jira. It allows users to create projects, manage tasks across multiple statuses, and collaborate in real-time with team members.
 
@@ -71,14 +71,33 @@ To get started first you will need to install the following:
 
 For those interested in how the project works without having to install it, here are some screenshots showcasing its key features:  
 
-![Screenshot 1](https://picsum.photos/800/400)  
-*Dashboard showing task statuses and project overview.*  
+![Screenshot from 2024-12-14 10-53-14](https://github.com/user-attachments/assets/8f0f0da3-6b17-49ee-9e38-fddb90ae2b5d)
+*Login / Register pages*  
 
-![Screenshot 2](https://picsum.photos/800/400)  
-*Task details with comments and change history.*  
+![Screenshot from 2024-12-14 10-58-33](https://github.com/user-attachments/assets/d7a8390d-e85b-4465-9f03-6f4dda3af99e)
+![Screenshot from 2024-12-14 11-08-21](https://github.com/user-attachments/assets/803f21ff-aac7-464e-ba06-0dc2d76a2c38)
+*Confirm account*  
 
-![Screenshot 3](https://picsum.photos/800/400)  
-*Collaborator management and role assignment.*  
+![Screenshot from 2024-12-14 10-54-35](https://github.com/user-attachments/assets/ab1a080b-5fb0-4ee9-b6d5-13f678760977)
+![Screenshot from 2024-12-14 10-54-44](https://github.com/user-attachments/assets/7c81fcdc-c5db-48d7-966d-9de0ebf01a07)
+*Manage your projects*  
+
+ ![Screenshot from 2024-12-14 10-54-57](https://github.com/user-attachments/assets/ab0f043f-da68-4dad-b507-3c38a02a713e)
+*Enter in your project*  
+
+![Screenshot from 2024-12-14 10-55-21](https://github.com/user-attachments/assets/ffe38738-55dc-49a5-a25f-1ddc92a1438a)
+*Create tasks* 
+
+![Screenshot from 2024-12-14 10-55-30](https://github.com/user-attachments/assets/96bc0558-9967-489f-9bc3-ecfe3efce93d)
+![Screenshot from 2024-12-14 11-06-14](https://github.com/user-attachments/assets/3ed3b5cc-8bc9-4a68-b8eb-e553571e6538)
+*Add collaborators* 
+
+![Screenshot from 2024-12-14 11-07-28](https://github.com/user-attachments/assets/e5c067aa-6fe1-4633-b1fc-323fe0ad8d89)
+*Add notes and check logs of a task*
+
+![Screenshot from 2024-12-14 10-55-49](https://github.com/user-attachments/assets/5544d17b-013e-4a33-b5cd-9d8c3a73cbfe)
+![Screenshot from 2024-12-14 10-55-55](https://github.com/user-attachments/assets/44033f9a-8bce-4f3a-84bf-9161486ec5bd)
+*Update your profile data* 
 
 ## Roadmap
 
