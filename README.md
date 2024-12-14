@@ -62,6 +62,10 @@ To get started first you will need to install the following:
     ```js
     VITE_API_URL=http://localhost:4000/api
     ```
+7. And then run in both /frontend and /backend:
+   ```sh
+   npm run dev
+   ```
 
 ## Usage
 
