@@ -131,4 +131,4 @@ Distributed under the MIT License. See [MIT License](https://opensource.org/lice
 
 Daniel Garrido - danigarridonunez@gmail.com
 
-Project Link: [https://github.com/DaniGarridoNunez/planify_frontend](https://github.com/DaniGarridoNunez/planify_frontend)
+[LinkedIn Profile](https://www.linkedin.com/in/daniel-garrido-87b041223/)
