@@ -129,6 +129,4 @@ Distributed under the MIT License. See [MIT License](https://opensource.org/lice
 
 ## Contact
 
-Daniel Garrido - danigarridonunez@gmail.com
-
-[LinkedIn Profile](https://www.linkedin.com/in/daniel-garrido-87b041223/)
+Daniel Garrido - danigarridonunez@gmail.com - [LinkedIn Profile](https://www.linkedin.com/in/daniel-garrido-87b041223/)
